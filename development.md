@@ -8,9 +8,10 @@
  just write down 1: S1 for example under the date to say that "oh i did this" the s1 exists because you may have multiple sessions/updates in one day -->
 
 
-Sample Session
 
 <!--
+Sample session
+
 # DATE
 
 ## 1: S1
