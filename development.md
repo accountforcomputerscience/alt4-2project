@@ -97,6 +97,7 @@ Considering changing the workflow for readability.
 
 ### Plans
 - Cleaning up the repo and documentation where possible.
+- Going to add something to readme
 Pygame:
 - Creating a screen
 - Basic player movement
