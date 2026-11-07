@@ -1,8 +1,11 @@
-1 is me
-2 is yujin
-3 is james
+<!-- 
+1. is me
+2. is J 
+3. is YJ
 
-just write down 1: S1 for example under the date to say that "oh i did this" the s1 exists because you may have multiple sessions/updates in one day
+
+
+ just write down 1: S1 for example under the date to say that "oh i did this" the s1 exists because you may have multiple sessions/updates in one day -->
 
 
 ## **Date: 11 November**
