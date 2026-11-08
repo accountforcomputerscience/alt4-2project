@@ -104,3 +104,45 @@ Pygame:
 
 Communcation:
 - May meet up with Y later to explain the repo and how it works.
+> 8/10 A here. Didn't end up happening. Currently postponed.
+
+
+
+# 8th November
+
+## A: 1
+
+### Tasks Worked on
+Pygame
+Input Abstraction
+
+
+### Accomplishments
+Added keyboard inputs.
+Found that darn bug with a VS code extension.
+
+
+
+### Problems Encountered
+We don't have microbits
+VS code was tweaking like crazy
+
+
+### Solutions/Decisions
+- Microbits -> decided to create ways to use your keyboard for inputs instead. This lets us switch between using keyboard/microbit by changing it in the settings. Obviously we don't have anything for microbit yet (no microbit, dont know what to put)
+- VS code -> Turns out it was an error with extensions: https://github.com/microsoft/vscode-python-environments/issues/1995. Took me way too long to figure this out, ended up taking like 2 hours of trial and error till I found it on the internet.
+
+
+
+### Feedback
+- I fear pygame. I copy and pasted code to test out the input stuff that was made.
+- Pygame reminds me of scratch in a lot of ways; I saw a couple of tutorials. Haven't done anything major yet.
+- That bug took way too long to find man. My day is ruined because of it. However, the dopamine I felt after finding it was 🤤
+
+
+### Plans
+Learn pygame. Nothing specific. 
+Will make basic movement/collision/sprite practice.
+Probably will start on a state machine.
+
+
