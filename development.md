@@ -129,7 +129,7 @@ VS code was tweaking like crazy
 
 
 ### Solutions/Decisions
-- Microbits -> decided to create ways to use your keyboard for inputs instead. This lets us switch between using keyboard/microbit by changing it in the settings. Obviously we don't have anything for microbit yet (no microbit, dont know what to put)
+- Since we do not have microbits at the moment, added a standardized format. This allows members to temporarily use keyboard as an input and will later on be very easy to change to microbit.
 - VS code -> Turns out it was an error with extensions: https://github.com/microsoft/vscode-python-environments/issues/1995. Took me way too long to figure this out, ended up taking like 2 hours of trial and error till I found it on the internet.
 
 
@@ -141,8 +141,7 @@ VS code was tweaking like crazy
 
 
 ### Plans
-Learn pygame. Nothing specific. 
-Will make basic movement/collision/sprite practice.
-Probably will start on a state machine.
+Will make basic movement via deltatime, collision, sprite practice.
+Investigate state machines and whether they may be used in the game.
 
 
