@@ -16,6 +16,3 @@ def get_keyboard_inputs():
         
     }
 
-
-while True:
-    get_keyboard_inputs()
