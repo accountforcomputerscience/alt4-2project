@@ -1,7 +1,7 @@
 **put links you used here for resources. think docuemntation, research about users and game mechanics, examples of code you followed, etc.**
 
 
-https://drive.google.com/drive/folders/1NU1wtfgBbh4rkQoUDD6eLlJXOtqzfUP6?usp=sharing - you can only access with a school account.
+[https://drive.google.com/drive/folders/1NU1wtfgBbh4rkQoUDD6eLlJXOtqzfUP6?usp=sharing](https://drive.google.com/drive/folders/1NU1wtfgBbh4rkQoUDD6eLlJXOtqzfUP6?usp=sharing) - you can only access with a school account.
 
 
 
