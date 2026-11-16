@@ -117,6 +117,7 @@ Pygame
 Input Abstraction
 
 
+
 ### Accomplishments
 Added keyboard inputs.
 Found that darn bug with a VS code extension.
@@ -147,9 +148,6 @@ Investigate state machines and whether they may be used in the game.
 
 
 
-
-
-
 # 16th November
 
 ## A: 1
@@ -168,3 +166,44 @@ Was looking for good tutorials I could follow
 Do stuff with the tutorials
 
 
+## Name And Session
+
+### Tasks Worked on
+
+
+### Accomplishments
+
+
+### Problems Encountered
+
+
+### Solutions/Decisions
+
+
+### Feedback
+
+
+### Plans
+
+
+
+
+## J: 1
+
+### Tasks Worked on
+pixel art practise
+
+### Accomplishments
+made a funny little guy.
+
+### Problems Encountered
+N/A
+
+### Solutions/Decisions
+N/A
+
+### Feedback
+N/A
+
+### Plans
+N/A
