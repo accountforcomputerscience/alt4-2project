@@ -7,6 +7,7 @@ https://drive.google.com/drive/folders/1NU1wtfgBbh4rkQoUDD6eLlJXOtqzfUP6?usp=sha
 
 ### related to game
 https://pyga.me/docs/
+https://github.com/adamsralf/pygame_book/blob/main/00%20pygamece.pdf - big book for pygame tutorial
 
 
 
