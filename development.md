@@ -145,3 +145,26 @@ Will make basic movement via deltatime, collision, sprite practice.
 Investigate state machines and whether they may be used in the game.
 
 
+
+
+
+
+
+# 16th November
+
+## A: 1
+
+### Tasks Worked on
+Pygame
+
+### Accomplishments
+Was looking for good tutorials I could follow
+
+
+### Feedback
+
+
+### Plans
+Do stuff with the tutorials
+
+
