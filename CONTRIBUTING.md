@@ -51,7 +51,7 @@ Throughout development:
 * Record important design decisions in [development](development.md).
 * Document bugs and how they were fixed in [development](development.md).
 * Photograph hardware its prototypes and testing.
-* Keep track of research sources. Easiest way to do this is if you search something up put it inside of [resources](https://github.com/accountforcomputerscience/alt4-2project/issues/1#issue-6254167814)
+* Keep track of research sources. Easiest way to do this is if you search something up put it inside of [resources](resources.md)
 
 
 ## 7. SUPER DUPER DUPER IMPORTANT SECTION
