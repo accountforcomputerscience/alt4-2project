@@ -186,3 +186,28 @@ N/A
 
 ### Plans
 N/A
+
+
+
+
+# 20th November
+
+## Y: 1
+
+### Tasks Worked on
+ALT4 HTML website skeleton
+
+### Accomplishments
+The UI is clean and easy to understand and users can find content with ease
+
+### Problems Encountered
+N/A
+
+### Solutions/Decisions
+N/A
+
+### Feedback
+N/A
+
+### Plans
+add clickable pages and interactive features to the website
