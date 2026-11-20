@@ -166,27 +166,6 @@ Was looking for good tutorials I could follow
 Do stuff with the tutorials
 
 
-## Name And Session
-
-### Tasks Worked on
-
-
-### Accomplishments
-
-
-### Problems Encountered
-
-
-### Solutions/Decisions
-
-
-### Feedback
-
-
-### Plans
-
-
-
 
 ## J: 1
 
