@@ -211,3 +211,28 @@ N/A
 
 ### Plans
 add clickable pages and interactive features to the website
+
+
+
+# 24th November
+
+## Y: 1
+
+### Tasks Worked on
+add clickable pages and interactive features and change background to the website, almost finished all parts of the website
+
+### Accomplishments
+The UI is clean and easy to understand and users can find content with ease, and clickable pages
+
+### Problems Encountered
+N/A
+
+### Solutions/Decisions
+N/A
+
+### Feedback
+N/A
+
+### Plans
+N/A
+
